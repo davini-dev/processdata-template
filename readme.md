@@ -2,7 +2,8 @@
 # Data: 07/03/2025
 
 
-# Template para processamento de dados
+# Template para processamento de dados 
+# (Prompts para Gerar Insights de Relatórios de Vendas)
 
 # Topicos
 
